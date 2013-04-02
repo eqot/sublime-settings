@@ -10,5 +10,7 @@
 		"Jade"
 	],
 	"scroll_past_end": true,
-	"tab_size": 4
+	"tab_size": 4,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
